@@ -1,0 +1,13 @@
+{
+  "sizes": [
+    10,
+    20,
+    30
+  ],
+  "instances_per_size": 10,
+  "master_seed": 20261026,
+  "precedence_rule": "n // 2",
+  "distance_scale": 1000000,
+  "coordinates": "uniform in [0,1]^2",
+  "depot": 0
+}
