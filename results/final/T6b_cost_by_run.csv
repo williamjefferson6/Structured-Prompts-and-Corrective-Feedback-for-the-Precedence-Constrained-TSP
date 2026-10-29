@@ -1,0 +1,4 @@
+run,calls,input_tokens,output_tokens,thinking_tokens,est_usd,api_minutes
+run1,78,72833,13595,266570.0,0.72,10.8
+run2,76,55574,8957,230516.0,0.62,9.31
+run3,68,45664,6600,246877.0,0.65,9.64

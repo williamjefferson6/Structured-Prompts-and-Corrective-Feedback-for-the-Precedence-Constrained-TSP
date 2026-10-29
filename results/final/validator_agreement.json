@@ -1,0 +1,10 @@
+{
+  "calls": 222,
+  "disagreements": 0,
+  "well_formed_replies": 133,
+  "valid_replies": 117,
+  "well_formed_but_invalid": 16,
+  "error_types_of_well_formed_invalid": {
+    "precedence": 16
+  }
+}

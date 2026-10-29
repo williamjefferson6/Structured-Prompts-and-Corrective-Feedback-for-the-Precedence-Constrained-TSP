@@ -1,0 +1,3 @@
+level,mean_attempts_all,max_attempts,l1_failures,mean_attempts_after_L1_failure,max_attempts_after_failure
+L2,1.24,5,18,2.22,5
+L3,1.22,3,18,2.11,3

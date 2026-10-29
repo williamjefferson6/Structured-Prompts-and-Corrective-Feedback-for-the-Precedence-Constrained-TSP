@@ -1,0 +1,4 @@
+run,calls,input_tokens,output_tokens,thinking_tokens,est_usd,api_minutes,wall_minutes_incl_pauses,thinking_share_of_billed_output_%
+run1,78,72833,13595,266570.0,0.72,10.8,19.86,95.15
+run2,76,55574,8957,230516.0,0.62,9.31,15.37,96.26
+run3,68,45664,6600,246877.0,0.65,9.64,15.03,97.4

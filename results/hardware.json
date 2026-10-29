@@ -1,0 +1,9 @@
+{
+  "cpu_model": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+  "cpu_count_visible": 2,
+  "ram_gb": 12.7,
+  "python": "3.13.16",
+  "cpsat_workers_used": 2,
+  "llm_hardware": "not observable (hosted by Google; free-tier API)",
+  "energy": "not measured"
+}

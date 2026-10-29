@@ -1,0 +1,4 @@
+n_cities,instances,proven_optimal,mean_wall_s,mean_cpu_s_upper,total_wall_s
+10,10,10,0.042,0.084,0.418
+20,10,10,7.24,14.48,72.402
+30,10,0,60.004,120.008,600.041

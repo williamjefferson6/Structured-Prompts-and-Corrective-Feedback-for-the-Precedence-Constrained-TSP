@@ -1,0 +1,6 @@
+,input_tokens,input_tokens,input_tokens,input_tokens,output_tokens,output_tokens,output_tokens,output_tokens,thinking_tokens,thinking_tokens,thinking_tokens,thinking_tokens
+level,L0,L1,L2,L3,L0,L1,L2,L3,L0,L1,L2,L3
+n,,,,,,,,,,,,
+10,307.0,430.0,529.0,534.0,33.0,49.0,54.0,54.0,5514.0,4476.0,5162.0,5105.0
+20,558.0,693.0,693.0,693.0,73.0,100.0,100.0,100.0,3451.0,2817.0,2817.0,2817.0
+30,810.0,954.0,3436.0,1801.0,113.0,142.0,848.0,446.0,4658.0,4194.0,3783.0,3960.0

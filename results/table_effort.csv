@@ -1,0 +1,7 @@
+level,n,instances,solved,mean_attempts,median_attempts,max_attempts,first_try_valid
+L2,10,10,10,1.2,1.0,2.0,8
+L2,20,10,10,1.0,1.0,1.0,10
+L2,30,10,10,1.9,1.5,5.0,5
+L3,10,10,10,1.2,1.0,2.0,8
+L3,20,10,10,1.0,1.0,1.0,10
+L3,30,10,10,1.5,1.5,2.0,5

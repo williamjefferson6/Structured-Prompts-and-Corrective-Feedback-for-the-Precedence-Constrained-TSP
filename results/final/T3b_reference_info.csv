@@ -1,0 +1,4 @@
+n_cities,proven_optimal,mean_ref_length,mean_lower_bound_gap_pct
+10,10,3.23,0.0
+20,10,4.521,0.0
+30,0,5.46,29.86

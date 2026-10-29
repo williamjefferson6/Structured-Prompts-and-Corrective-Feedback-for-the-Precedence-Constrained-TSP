@@ -1,0 +1,4 @@
+,failed_attempts,format,structure,coverage,precedence
+L0 first attempt,26,11,15,2,0
+L1 first attempt,7,4,0,0,3
+L2 retries,4,3,0,0,1
